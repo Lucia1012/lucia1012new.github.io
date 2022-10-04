@@ -1,7 +1,6 @@
 # Generation Sparkle
 
-With Generation Sparkle, you can make your company shine by increasing smiling rates of your employees, customers and clients. How? By saying yes to a little more sparkle in your every-work-day.
-
+With Generation Sparkle, you can make your company shine by saying yes to a little bit more sparkle in your every day, when celebrating achievements and special occasions or through increasing your employees satisfaction and identification with your company. 
 Explore how we can help you
 
 
