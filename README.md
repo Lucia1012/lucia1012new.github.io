@@ -5,7 +5,7 @@ With Generation Sparkle, you can make your company shine by increasing smiling r
 Explore how we can help you
 
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+![alt text](https://github.com/Lucia1012/lucia1012new.github.io/blob/fe3004294b2e20d814d713e3aa4b289886902223/assets/img/3.jpg)
 
 ## Table of Contents
 
