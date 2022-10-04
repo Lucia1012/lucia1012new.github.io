@@ -1,8 +1,9 @@
-# Millennial
+# Generation Sparkle
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+With Generation Sparkle, you can make your company shine by increasing smiling rates of your employees, customers and clients. How? By saying yes to a little more sparkle in your every-work-day.
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
+Explore our current offers: 
+
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
